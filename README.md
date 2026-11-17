@@ -2,7 +2,6 @@
 
 Save short notes or web pages, then ask questions and get answers generated from **your saved content only**, with cited source snippets. A small RAG app: React + Express + SQLite, runnable locally with **no API key** (a deterministic mock provider is built in).
 
-> Add a screenshot or GIF here before submitting: `docs/demo.gif`.
 
 ## Quick start
 
